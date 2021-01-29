@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1524018248 source:f:\越狱\main.c
+	<stdio.h>
+
+1524149842 source:g:\个人账户管理系统\main.c
+	<stdio.h>
+	<string.h>
+	"menu.h"
+	"struct.h"
+	"add_save_display.h"
+	"search.h"
+	"del_change.h"
+	"statistic.h"
+
+1524138824 g:\个人账户管理系统\menu.h
+	<stdio.h>
+
+1524040838 g:\个人账户管理系统\struct.h
+	<string.h>
+
+1524149098 g:\个人账户管理系统\add_save_display.h
+	<stdio.h>
+	"struct.h"
+	<string.h>
+
+1524138286 g:\个人账户管理系统\search.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"struct.h"
+
+1524149142 g:\个人账户管理系统\del_change.h
+	<stdio.h>
+
+1524150686 g:\个人账户管理系统\statistic.h
+	<stdio.h>
+	"struct.h"
+
